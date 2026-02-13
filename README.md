@@ -1,19 +1,17 @@
 Hi, ich bin Vivien 👋
-Angehende Softwareentwicklerin aus Hamburg | Master in Informationsmanagement | Fullstack-Enthusiastin
+Softwareentwicklerin aus Hamburg | M.A. Informationsmanagement | Frontend & UX Enthusiastin
 
-Ich liebe es, Dinge von Grund auf zu erschaffen – egal ob aus Stoff (beim Nähen & Basteln) oder aus Code. Nach meinem Master und ein paar Jahren Führungserfahrung im Kinobereich habe ich meine Leidenschaft für die Webentwicklung professionalisiert.
+Ich liebe es, Dinge von Grund auf zu erschaffen – egal ob aus Stoff beim Nähen oder aus Code im Editor. Nach meinem Master an der HAW Hamburg und Führungserfahrung im Kulturbereich verbinde ich heute meine Leidenschaft für strukturierte Daten mit modernem Frontend-Engineering.
 
-Aktuell baue ich am liebsten Fullstack-Lösungen im PERN-Stack, die nicht nur funktionieren, sondern durch klare UI/UX und Barrierefreiheit auch Spaß machen.
-
-Aktuell vertiefe ich meine Kenntnisse in der Fullstack-Entwicklung (PERN-Stack) und suche den Einstieg in ein innovatives Team.
+Mein Ziel: Komplexe Anwendungen (wie Geoportale) durch klare UI/UX und Barrierefreiheit für jeden zugänglich zu machen.
 
 🛠 Mein Tech-Stack
 
-    Frontend: React, TypeScript, JavaScript (ES6+), TailwindCSS, Recharts
+    Frontend: JavaScript (ES6+), TypeScript, React, TailwindCSS, Recharts
 
-    Backend: Node.js, Express, PostgreSQL
+    Backend & Data: Node.js, Express, PostgreSQL/ MySQL
 
-    Qualität: Jest / Vitest, Accessibility (ARIA), Responsive Design
+    Qualität & UX: Jest / Vitest, Accessibility (ARIA), Responsive Design
 
     Workflow: Git/GitHub, Jira, Figma, VS Code
 
@@ -27,7 +25,7 @@ Aktuell vertiefe ich meine Kenntnisse in der Fullstack-Entwicklung (PERN-Stack) 
 
 🌱 Warum ich?
 
-Ich bin Quereinsteigerin mit einer analytischen Denkweise und einem Auge fürs Detail. Ich suche kein bloßes Ticket-Abarbeiten, sondern ein Team, in dem ich mit kreativen Lösungen und einer strukturierten Arbeitsweise ab Herbst 2026 (in Teilzeit) mitwachsen kann.
+Ich bin eine analytische Entwicklerin mit einem Auge für das Detail. Ich suche kein bloßes Ticket-Abarbeiten, sondern ein Team, in dem ich mit kreativen Lösungen und einer strukturierten Arbeitsweise (in Teilzeit 25–30h) mitwirken kann.
 
 📫 Lass uns vernetzen: https://vivien-w.github.io/ViviensPortfolio/
 
