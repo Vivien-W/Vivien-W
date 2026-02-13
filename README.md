@@ -5,6 +5,7 @@ Ich liebe es, Dinge von Grund auf zu erschaffen – egal ob aus Stoff beim Nähe
 
 Mein Ziel: Komplexe Anwendungen (wie Geoportale) durch klare UI/UX und Barrierefreiheit für jeden zugänglich zu machen.
 
+
 🛠 Mein Tech-Stack
 
     Frontend: JavaScript (ES6+), TypeScript, React, TailwindCSS, Recharts
