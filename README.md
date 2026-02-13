@@ -3,8 +3,7 @@ Softwareentwicklerin aus Hamburg | M.A. Informationsmanagement | Frontend & UX E
 
 Ich liebe es, Dinge von Grund auf zu erschaffen – egal ob aus Stoff beim Nähen oder aus Code im Editor. Nach meinem Master an der HAW Hamburg und Führungserfahrung im Kulturbereich verbinde ich heute meine Leidenschaft für strukturierte Daten mit modernem Frontend-Engineering.
 
-Mein Ziel: Komplexe Anwendungen (wie Geoportale) durch klare UI/UX und Barrierefreiheit für jeden zugänglich zu machen.
-
+Mein Ziel: Komplexe Anwendungen durch klare UI/UX und Barrierefreiheit für jeden zugänglich zu machen.
 
 🛠 Mein Tech-Stack
 
