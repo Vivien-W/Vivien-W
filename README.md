@@ -1,5 +1,5 @@
 Hi, ich bin Vivien 👋
-Softwareentwicklerin aus Hamburg | M.A. Informationsmanagement | Frontend & UX Enthusiastin
+IT-Begeisterte aus Hamburg | M.A. Informationsmanagement | Frontend & UX Enthusiastin
 
 Ich liebe es, Dinge von Grund auf zu erschaffen – egal ob aus Stoff beim Nähen oder aus Code im Editor. Nach meinem Master an der HAW Hamburg und Führungserfahrung im Kulturbereich verbinde ich heute meine Leidenschaft für strukturierte Daten mit modernem Frontend-Engineering.
 
