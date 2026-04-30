@@ -1,7 +1,8 @@
 Hi, ich bin Vivien 👋
-IT-Begeisterte aus Hamburg | M.A. Informationsmanagement | Frontend & UX Enthusiastin
+IT-Begeisterte aus Hamburg | M.A. Informationsmanagement 
 
-Ich liebe es, Dinge von Grund auf zu erschaffen – egal ob aus Stoff beim Nähen oder aus Code im Editor. Nach meinem Master an der HAW Hamburg und Führungserfahrung im Kulturbereich verbinde ich heute meine Leidenschaft für strukturierte Daten mit modernem Frontend-Engineering.
+Ich verbinde organisatorische Erfahrung aus dem Kulturbereich mit einem fundierten Verständnis für digitale Systeme.
+Mein Fokus liegt darauf, Anforderungen zu strukturieren, verständlich aufzubereiten und in praktikable Lösungen zu überführen – von der Idee bis zur Anwendung.
 
 Mein Ziel: Komplexe Anwendungen durch klare UI/UX und Barrierefreiheit für jeden zugänglich zu machen.
 
@@ -15,17 +16,25 @@ Mein Ziel: Komplexe Anwendungen durch klare UI/UX und Barrierefreiheit für jede
 
     Workflow: Git/GitHub, Jira, Figma, VS Code
 
-🚀 Woran ich gerade arbeite
+🛠 Kompetenzen
 
-    KI-Kosten-Dashboard: Ein Tool zur Visualisierung von API-Kosten (mein aktuelles Herzensprojekt!).
+    Digitale Anwendungen & Frontend
+    React · TypeScript · JavaScript · TailwindCSS · Responsive Design · Accessibility (ARIA)
 
-    Fullstack To-Do-App: Vertiefung von State Management und Cloud-Anbindung.
+    Daten & Systemlogik
+    Node.js · Express · PostgreSQL · MySQL · REST APIs
 
-    Lernen: Ich tauche gerade tiefer in API-Architektur und automatisierte Tests ein.
+Werkzeuge & Zusammenarbeit
 
-🌱 Warum ich?
+    GitHub · Jira · Confluence · Figma · VS Code
 
-Ich bin eine analytische Entwicklerin mit einem Auge für das Detail. Ich suche kein bloßes Ticket-Abarbeiten, sondern ein Team, in dem ich mit kreativen Lösungen und einer strukturierten Arbeitsweise (in Teilzeit 25–30h) mitwirken kann.
+🚀 Aktuelle Projekte
 
-📫 Lass uns vernetzen: https://vivien-w.github.io/ViviensPortfolio/
+    KI-Kosten-Dashboard – Visualisierung und Strukturierung von Nutzungs- und Kostendaten
+    Fullstack To-Do-App – Fokus auf klare Datenlogik und intuitive Nutzung
+    Weitere Projekte – siehe Portfolio
+
+🌱 Aktuell
+
+    Vertiefung meiner Kenntnisse in API-Strukturen, Testautomatisierung und barrierearmer Gestaltung.
 
